@@ -1,0 +1,1 @@
+# Smarty-Trash-Frontend
